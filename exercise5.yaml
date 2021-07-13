@@ -1,0 +1,8 @@
+employee:
+  name: Jacob
+  sex: male
+  age: 32
+  title: 'systems engineer'
+  projects:
+    - automation
+    - support
